@@ -1,3 +1,6 @@
 # TerminalTest1
-Testing out the terminal way to github
-This is a change from the computer
+Testing out the terminal way to github.
+
+This is a change from the computer.
+
+Tweaked the formatting.
